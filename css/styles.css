@@ -1,0 +1,83 @@
+body {
+  font-family: "Roboto", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background-color: #fff;
+  font-weight: 300;
+}
+
+p {
+  color: #333;
+  font-weight: 300;
+}
+
+a {
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+}
+
+h1 {
+    font-size: 1.8rem;
+    padding: 0 15px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.fw-container {
+    width: 100%;
+
+    .content {
+        max-width: 80%;
+        padding: 15px;
+        margin: auto;
+    }
+}
+
+@media (max-width: 991px) {
+    .fw-container {
+        .content {
+            max-width: 100%;
+        }
+    }
+}
+
+.content {
+  padding: 7rem 0;
+}
+
+.brand-data {
+    display: flex;
+    flex-direction: column;
+    background-color: #efefef;
+    border-radius: 15px;
+
+    .row {
+        display: flex;
+        flex-direction: row;
+        margin: 15px;
+        padding: 10px;
+        background-color: white;
+        border-radius: 15px;
+    }
+
+    .date {
+        padding: 3px 10px;
+        font-size: .875rem;
+        font-weight: 700;
+        color: #333;
+        background-color: #ddd;
+        border-radius: 5px;
+    }
+
+    h1 {
+      font-size: 3rem;
+    }
+
+    p {
+      color: #333;
+      font-weight: 300;
+      margin: -20px 0 15px 15px;
+    }
+
+}

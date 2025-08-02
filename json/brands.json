@@ -1,0 +1,66 @@
+[
+  {
+    "brand_id": 1,
+    "use": true,
+    "name": "Tesla",
+    "logo": "Tesla.svg",
+    "country": "USA",
+    "url": "https://rivian.com/fr-FR"
+  },
+  {
+    "brand_id": 2,
+    "use": true,
+    "name": "Rivian",
+    "logo": "Rivian.svg",
+    "country": "USA",
+    "url": "https://rivian.com/fr-FR"
+  },
+  {
+    "brand_id": 3,
+    "use": true,
+    "name": "Toyota",
+    "logo": "Toyota.svg",
+    "country": "Japan",
+    "url": "https://rivian.com/fr-FR"
+  },
+  {
+    "brand_id": 4,
+    "use": true,
+    "name": "Mercedes-Benz",
+    "logo": "Mercedes-Benz.svg",
+    "country": "Germany",
+    "url": "https://www.mercedes-benz.fr/"
+  },
+  {
+    "brand_id": 5,
+    "use": true,
+    "name": "BMW",
+    "logo": "BMW.svg",
+    "country": "Germany",
+    "url": "https://www.bmw.fr/fr/"
+  },
+  {
+    "brand_id": 6,
+    "use": true,
+    "name": "Volkswagen",
+    "logo": "Volkswagen.svg",
+    "country": "Germany",
+    "url": "https://www.volkswagen.fr/fr.html"
+  },
+  {
+    "brand_id": 7,
+    "use": true,
+    "name": "Renault",
+    "logo": "Renault.svg",
+    "country": "French",
+    "url": "https://www.renault.fr/"
+  },
+  {
+    "brand_id": 8,
+    "use": true,
+    "name": "Stellantis",
+    "logo": "Stellantis.svg",
+    "country": "French",
+    "url": "https://www.stellantis.com/fr"
+  }
+]

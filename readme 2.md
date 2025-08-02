@@ -1,13 +1,3 @@
-# automotive
-Automotive figures and debt
-
-See the figures for the largest car manufacturers.
-- Financial debt
-- Number of cars sold
-- Net margin
-- Turnover
-
-
 # 🚗 AutoStats JS
 
 Un projet JavaScript natif permettant d’afficher dynamiquement des statistiques de marques automobiles (ventes, chiffre d’affaires, marges, dettes, etc.) dans une interface web responsive, sans framework externe.

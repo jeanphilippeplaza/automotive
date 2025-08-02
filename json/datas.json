@@ -1,0 +1,76 @@
+[
+    {"brand": "Tesla", "year": 2020, "cars_sold": 499550, "net_margin": 2.3, "debt": 11330, "turnover": 31536},
+    {"brand": "Tesla", "year": 2021, "cars_sold": 936222, "net_margin": 10.3, "debt": 10230, "turnover": 53823},
+    {"brand": "Tesla", "year": 2022, "cars_sold": 1313900, "net_margin": 15.5, "debt": 5740, "turnover": 81462},
+    {"brand": "Tesla", "year": 2023, "cars_sold": 1808581, "net_margin": 15.5, "debt": 9570, "turnover": 96773},
+    {"brand": "Tesla", "year": 2024, "cars_sold": 1789226, "net_margin": 7.3, "debt": 13620, "turnover": 97690},
+    
+    {"brand": "Mercedes-Benz", "year": 2020, "cars_sold": 2128100, "net_margin": 4.0, "debt": 79760, "turnover": 154309},
+    {"brand": "Mercedes-Benz", "year": 2021, "cars_sold": 2093700, "net_margin": 8.6, "debt": 81400, "turnover": 150018},
+    {"brand": "Mercedes-Benz", "year": 2022, "cars_sold": 2243000, "net_margin": 9.67, "debt": 84410, "turnover": 157000},
+    {"brand": "Mercedes-Benz", "year": 2023, "cars_sold": 2042800, "net_margin": 9.31, "debt": 87210, "turnover": 152400},
+    {"brand": "Mercedes-Benz", "year": 2024, "cars_sold": 1983400, "net_margin": 7.0, "debt": 112800, "turnover": 145600},
+ 
+    {"brand": "BMW", "year": 2020, "cars_sold": 2129300, "net_margin": 4.3, "debt": 74100, "turnover": 98782},
+    {"brand": "BMW", "year": 2021, "cars_sold": 2213100, "net_margin": 10.3, "debt": 79400, "turnover": 111239},
+    {"brand": "BMW", "year": 2022, "cars_sold": 2399900, "net_margin": 12.6, "debt": 76760, "turnover": 150250},
+    {"brand": "BMW", "year": 2023, "cars_sold": 2253800, "net_margin": 7.3, "debt": 79090, "turnover": 168300},
+    {"brand": "BMW", "year": 2024, "cars_sold": 2200177, "net_margin": 5.1, "debt": 88970, "turnover": 154070},
+
+    {"brand": "Toyota", "year": 2020, "cars_sold": 9560000, "net_margin": 6.8, "debt": 223000, "turnover": 275400},
+    {"brand": "Toyota", "year": 2021, "cars_sold": 10495000, "net_margin": 8.4, "debt": 220000, "turnover": 279000},
+    {"brand": "Toyota", "year": 2022, "cars_sold": 10505000, "net_margin": 12.7, "debt": 217600, "turnover": 275900},
+    {"brand": "Toyota", "year": 2023, "cars_sold": 11096000, "net_margin": 9.9, "debt": 220300, "turnover": 280500},
+    {"brand": "Toyota", "year": 2024, "cars_sold": 11348000, "net_margin": 15.4, "debt": 241500, "turnover": 299400},
+
+    {"brand": "Renault", "year": 2020, "cars_sold": 2948000, "net_margin": -8.0, "debt": 40990, "turnover": 43875},
+    {"brand": "Renault", "year": 2021, "cars_sold": 2696000, "net_margin": 2.8, "debt": 38530, "turnover": 46213},
+    {"brand": "Renault", "year": 2022, "cars_sold": 2125000, "net_margin": -0.8, "debt": 68960, "turnover": 46328},
+    {"brand": "Renault", "year": 2023, "cars_sold": 2201000, "net_margin": 4.2, "debt": 71940, "turnover": 52376},
+    {"brand": "Renault", "year": 2024, "cars_sold": 2263000, "net_margin": 1.3, "debt": 73110, "turnover": 56232},
+
+    {"brand": "Volkswagen", "year": 2020, "cars_sold": 9310000, "net_margin": 3.1, "debt": 175200, "turnover": 222884},
+    {"brand": "Volkswagen", "year": 2021, "cars_sold": 8882000, "net_margin": 7.3, "debt": 192000, "turnover": 250200},
+    {"brand": "Volkswagen", "year": 2022, "cars_sold": 8447000, "net_margin": 6.36, "debt": 205200, "turnover": 279200},
+    {"brand": "Volkswagen", "year": 2023, "cars_sold": 9200000, "net_margin": 4.36, "debt": 232800, "turnover": 322300},
+    {"brand": "Volkswagen", "year": 2024, "cars_sold": 9103000, "net_margin": 2.84, "debt": 254100, "turnover": 322300},
+ 
+    {"brand": "Rivian", "year": 2020, "cars_sold": 0, "net_margin": 0, "debt": 13600, "turnover": 0},
+    {"brand": "Rivian", "year": 2021, "cars_sold": 920, "net_margin": -861.0, "debt": 12200, "turnover": 55},
+    {"brand": "Rivian", "year": 2022, "cars_sold": 20432, "net_margin": -266.0, "debt": 12200, "turnover": 1500},
+    {"brand": "Rivian", "year": 2023, "cars_sold": 50222, "net_margin": -145.0, "debt": 11090, "turnover": 4280},
+    {"brand": "Rivian", "year": 2024, "cars_sold": 57400, "net_margin": -89.0, "debt": 10400, "turnover": 5100},
+
+    {
+    "brand": "Stellantis",
+    "year": 2021,
+    "cars_sold": null,
+    "net_margin": null,
+    "debt": 26766,
+    "turnover": null
+  },
+  {
+    "brand": "Stellantis",
+    "year": 2022,
+    "cars_sold": null,
+    "net_margin": 9.4,
+    "debt": 20513,
+    "turnover": 179600
+  },
+  {
+    "brand": "Stellantis",
+    "year": 2023,
+    "cars_sold": null,
+    "net_margin": 9.8,
+    "debt": 34158,
+    "turnover": 189500
+  },
+  {
+    "brand": "Stellantis",
+    "year": 2024,
+    "cars_sold": null,
+    "net_margin": 5.5,
+    "debt": 43159,
+    "turnover": 156900
+  }
+]
