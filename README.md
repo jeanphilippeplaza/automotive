@@ -45,6 +45,7 @@ Un projet JavaScript natif permettant d’afficher dynamiquement des statistique
 │   └── logos/
 │       └── [marques].svg
 ├── README.md
+```
 
 ## Remove file .DS_Store
 
