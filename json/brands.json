@@ -1,7 +1,7 @@
 [
   {
     "brand_id": 1,
-    "use": true,
+    "visible": true,
     "name": "Tesla",
     "logo": "Tesla.svg",
     "country": "USA",
@@ -9,7 +9,7 @@
   },
   {
     "brand_id": 2,
-    "use": true,
+    "visible": true,
     "name": "Rivian",
     "logo": "Rivian.svg",
     "country": "USA",
@@ -17,7 +17,7 @@
   },
   {
     "brand_id": 3,
-    "use": true,
+    "visible": true,
     "name": "Toyota",
     "logo": "Toyota.svg",
     "country": "Japan",
@@ -25,7 +25,7 @@
   },
   {
     "brand_id": 4,
-    "use": true,
+    "visible": true,
     "name": "Mercedes-Benz",
     "logo": "Mercedes-Benz.svg",
     "country": "Germany",
@@ -33,7 +33,7 @@
   },
   {
     "brand_id": 5,
-    "use": true,
+    "visible": true,
     "name": "BMW",
     "logo": "BMW.svg",
     "country": "Germany",
@@ -41,7 +41,7 @@
   },
   {
     "brand_id": 6,
-    "use": true,
+    "visible": true,
     "name": "Volkswagen",
     "logo": "Volkswagen.svg",
     "country": "Germany",
@@ -49,7 +49,7 @@
   },
   {
     "brand_id": 7,
-    "use": true,
+    "visible": true,
     "name": "Renault",
     "logo": "Renault.svg",
     "country": "French",
@@ -57,7 +57,7 @@
   },
   {
     "brand_id": 8,
-    "use": true,
+    "visible": true,
     "name": "Stellantis",
     "logo": "Stellantis.svg",
     "country": "French",

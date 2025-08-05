@@ -19,7 +19,7 @@ class CellBrandData extends HTMLElement {
                 .cellDatas {
                     display: flex;
                     flex-direction: column;
-                    padding: 5px 30px;
+                    padding: 5px 15px;
 
                     p {
                         margin: 0;
@@ -41,6 +41,12 @@ class CellBrandData extends HTMLElement {
                             background-color: #ddd;
                             border-radius: 5px;
                         }
+                    }
+                }
+
+                @media (min-width: 1025px) {
+                    .cellDatas {
+                        padding: 5px 40px;
                     }
                 }
             </style>

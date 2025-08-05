@@ -1,6 +1,6 @@
 .nav-list {
-    display: flex;
-    margin: 15px 0;
+    display: none; /* flex */
+    margin: 5px 15px;
     padding: 0;
     list-style: none;
 
